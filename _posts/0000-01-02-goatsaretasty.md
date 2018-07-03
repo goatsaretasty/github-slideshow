@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+How Did I Not See This?? #write like a hotep
 Use the left arrow to go back!
